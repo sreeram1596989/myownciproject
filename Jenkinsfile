@@ -1,5 +1,5 @@
 def COLOR_MAP = [
-	'SUCCESS' : 'good',
+	' BUILD was SUCCESS ' : 'good',
 	'FAILURE' : 'danger',
 	]
     pipeline {
